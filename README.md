@@ -87,12 +87,12 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 
 ---
 
-## 🌐 Socials:
+## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reza-alizadeh-6a5847244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rezaalizaadeh@gmail.com) 
 
 ---
 
-## 💻 Tech Stack:
+## 💻 Tech Stack
 **Languages**  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -114,7 +114,7 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 ![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
 
-**NLP / Audio / Deployment**  
+**NLP / Signal / Deployment**  
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
