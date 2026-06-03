@@ -19,13 +19,20 @@ My current interests are applied NLP, audio ML, and production-oriented ML workf
 
 ## Core Skills
 **Languages:** Python · SQL · R · C++  
-**Machine Learning:** scikit-learn · XGBoost · LightGBM  
-**Deep Learning:** PyTorch · TensorFlow  
-**NLP:** TF-IDF · spaCy · NLTK · Transformers  
-**Audio ML:** Librosa (MFCC, Mel-spectrograms)  
-**Deployment:** FastAPI · Docker · Streamlit  
-**Experiment / Workflow:** MLflow · Git/GitHub · Jupyter · VS Code  
-**Cloud:** GCP · AWS · Azure
+
+**Machine Learning:** scikit-learn · XGBoost · LightGBM · feature engineering · model evaluation  
+
+**Deep Learning:** PyTorch · TensorFlow · CNNs · Transformers  
+
+**NLP:** TF-IDF · text preprocessing · sentiment analysis · classification  
+
+**Signal / Audio Processing:** Librosa · MFCCs · Mel-spectrograms · physiological signal features  
+
+**Deployment:** FastAPI · Docker · Streamlit · TensorFlow Lite  
+
+**Workflow:** MLflow · Git/GitHub · Jupyter · VS Code  
+
+**Cloud:** Google Cloud · AWS · Azure  
 
 ---
 
