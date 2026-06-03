@@ -12,8 +12,9 @@
 ---
 
 ## Profile
-I build end-to-end machine learning solutions—from data preparation and modeling to evaluation and deployment.
-My current interests are applied NLP, audio ML, and production-oriented ML workflows.
+I build end-to-end data science and machine learning projects, from data preparation and feature engineering to model training, evaluation, and deployment.
+
+My work includes applied machine learning, NLP, audio and signal processing, predictive modeling, and production-oriented ML workflows. I am interested in internship opportunities where I can contribute to real-world data, AI, and software-driven projects.
 
 ---
 
