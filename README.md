@@ -13,7 +13,6 @@
 
 ## Profile
 I build end-to-end data science and machine learning projects, from data preparation and feature engineering to model training, evaluation, and deployment.
-
 My work includes applied machine learning, NLP, audio and signal processing, predictive modeling, and production-oriented ML workflows. I am interested in internship opportunities where I can contribute to real-world data, machine learning, and software-driven projects.
 ---
 
@@ -117,7 +116,7 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-Audio%20ML-blueviolet?style=for-the-badge)
+![Librosa](https://img.shields.io/badge/Librosa-Audio%20Processing-blueviolet?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
