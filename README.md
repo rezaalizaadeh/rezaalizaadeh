@@ -92,7 +92,7 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 
 ---
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 **Languages**  
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -116,6 +116,7 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 
 **NLP / Audio / Deployment**  
 
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 ![Librosa](https://img.shields.io/badge/Librosa-Audio%20ML-blueviolet?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
