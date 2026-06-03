@@ -90,6 +90,8 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reza-alizadeh-6a5847244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rezaalizaadeh@gmail.com) 
 
+---
+
 # 💻 Tech Stack:
 **Languages**  
 
