@@ -73,6 +73,19 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 
 > I keep smaller learning projects in separate repositories; this profile highlights my most representative applied ML and data science work.
 ---
+## Current Learning Focus
+
+- Production ML and MLOps
+
+- FastAPI and Docker-based ML deployment
+
+- Cloud ML workflows
+
+- LLM/RAG systems
+
+- Software engineering interview preparation
+
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reza-alizadeh-6a5847244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rezaalizaadeh@gmail.com) 
