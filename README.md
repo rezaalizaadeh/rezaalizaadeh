@@ -30,20 +30,40 @@ My current interests are applied NLP, audio ML, and production-oriented ML workf
 ---
 
 ## Featured Work
-### 🎧 Snore Detection (Audio Deep Learning)
-CNN-based classification of snore vs. non-snore events using MFCC features.  
-**Stack:** Python, Librosa, TensorFlow, scikit-learn
 
-### 🛒 Amazon Review Sentiment (NLP)
-End-to-end sentiment classification pipeline (baseline: TF-IDF + Logistic Regression).  
-**Stack:** Python, pandas, scikit-learn
+### 🐋 Cetacean Acoustic Detection with TinyML
 
-### 📩 Spam Email Detection
-Text classification using Naive Bayes and SVM with preprocessing and evaluation.  
-**Stack:** Python, NLTK, scikit-learn
+End-to-end audio machine learning pipeline for cetacean acoustic signal detection using MFCC/Mel features, CNN models, TensorFlow Lite conversion, and embedded deployment feasibility testing.
 
-> I keep smaller learning projects in separate repositories; this profile highlights my most representative work.
+**Stack:** Python, Librosa, TensorFlow, TensorFlow Lite, scikit-learn, Arduino Nano 33 BLE
 
+---
+
+### 🫀 MEDScan Screening Pipeline
+
+Physiological signal processing and machine learning pipeline for screening-oriented hypertension risk assessment using PPG/ECG-derived features and classical ML models.
+
+**Stack:** Python, pandas, scikit-learn, XGBoost, signal processing, feature extraction
+
+---
+
+### 💬 Amazon Review Sentiment Analysis
+
+End-to-end NLP sentiment classification pipeline using text cleaning, TF-IDF vectorization, Logistic Regression, and model evaluation.
+
+**Stack:** Python, pandas, scikit-learn, NLP preprocessing
+
+---
+
+### 🚲 Cyclistic Bike Share Case Study
+
+Data analysis case study focused on user behavior, data cleaning, exploratory analysis, and business insights using R.
+
+**Stack:** R, tidyverse, data preparation, exploratory data analysis
+
+---
+
+> I keep smaller learning projects in separate repositories; this profile highlights my most representative applied ML and data science work.
 ---
 
 ## 🌐 Socials:
