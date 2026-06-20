@@ -56,11 +56,11 @@ Physiological signal processing and machine learning pipeline for screening-orie
 
 ---
 
-### 💬 Amazon Review Sentiment Analysis
+### 🧠 Visual Concept Learning
 
-End-to-end NLP sentiment classification pipeline using text cleaning, TF-IDF vectorization, Logistic Regression, and model evaluation.
+CNN-based study of visual concept learning using EMNIST Letters and Fashion-MNIST. The project analyzes how internal representations evolve across model layers using linear read-outs, representation geometry, clustering, confusion matrices, psychometric curves, and adversarial robustness experiments.
 
-**Stack:** Python, pandas, scikit-learn, NLP preprocessing
+**Stack:** Python, PyTorch, torchvision, scikit-learn, NumPy, pandas, matplotlib
 
 ---
 
@@ -72,7 +72,7 @@ Data analysis case study focused on user behavior, data cleaning, exploratory an
 
 ---
 
-> I keep smaller learning projects in separate repositories; this profile highlights my most representative applied ML and data science work.
+> I keep smaller learning projects in separate repositories; this profile highlights my most representative applied machine learning and data science work.
 ---
 ## Current Learning Focus
 
