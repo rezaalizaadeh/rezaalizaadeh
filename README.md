@@ -1,136 +1,75 @@
-<h1 align="center">Reza Alizadeh</h1>
-<p align="center">
-  MSc Data Science @ University of Padua · Machine Learning / Deep Learning · NLP · Deployment
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/reza-alizadeh-6a5847244/">LinkedIn</a> ·
-  <a href="mailto:rezaalizaadeh@gmail.com">Email</a> ·
-  <a href="https://github.com/rezaalizaadeh">GitHub</a>
-</p>
+# Reza Mahin Mohammadalizadeh
 
----
+### Applied Machine Learning & AI Engineer
 
-## Profile
+MSc Data Science at the University of Padua  
+Building reliable ML systems from real-world signals and data to deployment
 
-I build end-to-end data science and machine learning projects, from data preparation and feature engineering to model training, evaluation, and deployment.
+[![Portfolio](https://img.shields.io/badge/Portfolio-Selected%20Work-0891B2?style=flat-square&logo=github)](https://github.com/rezaalizaadeh/reza-ml-ai-portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/reza-alizadeh-6a5847244/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rezaalizaadeh@gmail.com)
 
-My work includes applied machine learning, NLP, audio and signal processing, predictive modeling, and production-oriented ML workflows. I am interested in internship opportunities where I can contribute to real-world data, machine learning, and software-driven projects.
+</div>
 
 ---
 
-## Core Skills
-**Languages:** Python · SQL · R · C++  
+## About Me
 
-**Machine Learning:** scikit-learn · XGBoost · LightGBM · feature engineering · model evaluation  
+I am an MSc Data Science student and Information Engineering graduate based in Padua, Italy.
 
-**Deep Learning:** PyTorch · TensorFlow · CNNs · Transformers  
+My work spans physiological signals, retrieval-augmented generation, time-series forecasting, audio machine learning, and edge deployment. I focus on complete technical workflows: defining the problem, preparing the data, building and evaluating models, and moving the result toward a reliable application.
 
-**NLP:** TF-IDF · text preprocessing · sentiment analysis · classification  
+I am currently seeking **Applied ML/AI engineering internships in Italy and across Europe**.
 
-**Signal / Audio Processing:** Librosa · MFCCs · Mel-spectrograms · physiological signal features  
+## Selected Work
 
-**Deployment:** FastAPI · Docker · Streamlit · TensorFlow Lite  
+| Project | Focus | Evidence |
+|---|---|---|
+| [**Applied ML & AI Portfolio**](https://github.com/rezaalizaadeh/reza-ml-ai-portfolio) | Recruiter-focused technical case studies | Healthcare AI, RAG, forecasting, signal processing and edge ML |
+| **MEDScan** | Physiological-signal ML and healthcare-AI product development | Lead a six-person team; winner of Enactus Italy 2026 Early Stage |
+| [**Padova Restaurant RAG**](https://github.com/rezaalizaadeh/padova-restaurant-rag) | Source-grounded question answering | SentenceTransformers, FAISS, hybrid ranking, FastAPI, Docker and CI |
+| [**Italy Renewable-Share Forecasting**](https://github.com/rezaalizaadeh/renewable-share-forecasting-italy) | Time-aware statistical and ML forecasting | 1,826 daily observations; 2025 holdout; ARIMA/ETS, GAM and Random Forest comparison |
+| **Cetacean Acoustic Classification** | Audio ML and embedded deployment | MFCC-based 2D CNN, 83% held-out test accuracy and TensorFlow Lite feasibility |
 
-**Workflow:** MLflow · Git/GitHub · Jupyter · VS Code  
+> MEDScan is an active startup project. Its implementation repository remains private to protect intellectual property. Only approved, non-confidential technical details are presented publicly.
 
-**Cloud:** Google Cloud · AWS · Azure  
+## Technical Focus
 
----
+```text
+Applied ML       scikit-learn · TensorFlow/Keras · PyTorch · XGBoost
+Signals & Data   PPG/ECG · audio · time series · pandas · NumPy · R · SQL
+AI Systems       RAG · embeddings · FAISS · evidence-backed generation
+Engineering      FastAPI · Docker · pytest · GitHub Actions · Linux
+Edge ML          MFCCs · CNNs · TensorFlow Lite · embedded deployment
+```
 
-## Featured Work
+## Current Work
 
-### 🐋 Cetacean Acoustic Detection with TinyML
+- Leading ML and product development for MEDScan with Enactus UniPD
+- Building production-oriented retrieval and forecasting applications
+- Improving reproducibility, testing, evaluation, and deployment practices
+- Expanding my portfolio with evidence-led Applied ML/AI case studies
 
-End-to-end audio machine learning pipeline for cetacean acoustic signal detection using MFCC/Mel features, CNN models, TensorFlow Lite conversion, and embedded deployment feasibility testing.
+## Education
 
-**Stack:** Python, Librosa, TensorFlow, TensorFlow Lite, scikit-learn, Arduino Nano 33 BLE
+- **MSc in Data Science** — University of Padua, 2025–present
+- **BSc in Information Engineering** — University of Padua, completed 2025
+  - Thesis: embedded ML for cetacean acoustic classification
 
----
+## Languages
 
-### 🫀 MEDScan Screening Pipeline
-
-Physiological signal processing and machine learning pipeline for screening-oriented hypertension risk assessment using PPG/ECG-derived features and classical ML models.
-
-**Stack:** Python, pandas, scikit-learn, XGBoost, signal processing, feature extraction
-
----
-
-### 🧠 Visual Concept Learning
-
-CNN-based study of visual concept learning using EMNIST Letters and Fashion-MNIST. The project analyzes how internal representations evolve across model layers using linear read-outs, representation geometry, clustering, confusion matrices, psychometric curves, and adversarial robustness experiments.
-
-**Stack:** Python, PyTorch, torchvision, scikit-learn, NumPy, pandas, matplotlib
-
----
-
-### 🚲 Cyclistic Bike Share Case Study
-
-Data analysis case study focused on user behavior, data cleaning, exploratory analysis, and business insights using R.
-
-**Stack:** R, tidyverse, data preparation, exploratory data analysis
+English (C1) · Italian (A2) · Turkish, Azerbaijani and Persian (native)
 
 ---
 
-> I keep smaller learning projects in separate repositories; this profile highlights my most representative applied machine learning and data science work.
----
-## Current Learning Focus
+<div align="center">
 
-- Production ML and MLOps
+### Open to Applied ML/AI internship opportunities
 
-- FastAPI and Docker-based ML deployment
+[Portfolio](https://github.com/rezaalizaadeh/reza-ml-ai-portfolio) ·
+[LinkedIn](https://www.linkedin.com/in/reza-alizadeh-6a5847244/) ·
+[Email](mailto:rezaalizaadeh@gmail.com)
 
-- Cloud ML workflows
-
-- LLM/RAG systems
-
-- Software engineering interview preparation
-
----
-
-## 🌐 Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reza-alizadeh-6a5847244/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Rezaalizaadeh@gmail.com) 
-
----
-
-## 💻 Tech Stack
-**Languages**  
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-**Machine Learning / Deep Learning**  
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-
-**Data / Scientific Computing**  
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-23ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
-
-**NLP / Signal / Deployment**  
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
-![Librosa](https://img.shields.io/badge/Librosa-Audio%20Processing-blueviolet?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-
-**Workflow / Cloud**  
-
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=rezaalizaadeh&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
